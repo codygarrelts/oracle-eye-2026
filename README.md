@@ -1,7 +1,7 @@
 # Oracle Eye v2.6
 
-Built by Cody Garrelts — Dolphin-qualified ETV3 (USS Greeneville SSN-772)  
-December 2025 — one 25-hour death trance with Grok & Claude
+Built by Cody Garrelts — Dolphin-qualified ETV3  
+
 
 This single Python file:
 - Runs on any Windows laptop (your Navy i7 does 75 FPS)
